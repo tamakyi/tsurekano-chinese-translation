@@ -1,0 +1,40 @@
+{
+    "title": "《拖油瓶》中文翻译",
+    "author": "紙城境介/たかやKi 翻译：企鹅半岛（LK ID：pipio08）",
+    "description": "《继母的拖油瓶是我的前女友》中文翻译",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "在BookWalker上购买本书": "https://bookwalker.jp/de866cce9a-d9c1-4abd-ad30-ad7d23028045/",
+            "Source Code": "https://github.com/joexu01/tsureko-chinese-translation"
+        }
+    },
+    "plugins": [
+        "-search",
+        "back-to-top-button",
+        "-sharing",
+        "sharing-plus",
+        "search-pro",
+        "fontsettings",
+        "splitter"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "weibo": true,
+            "qq": true,
+            "all": [
+                "douban",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "messenger",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    }
+}
