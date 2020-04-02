@@ -19,8 +19,10 @@
 
 ---
 
-![3-1](https://github.com/joexu01/tsureko-chinese-translation/blob/master/illustration/3/1.jpg)
+![3-1](https://raw.githubusercontent.com/joexu01/tsureko-chinese-translation/master/illustration/3/1.jpg)
 
-![3-2](https://github.com/joexu01/tsureko-chinese-translation/blob/master/illustration/3/2.jpg)
+![3-2](https://raw.githubusercontent.com/joexu01/tsureko-chinese-translation/master/illustration/3/2.jpg)
 
-![3-3](https://github.com/joexu01/tsureko-chinese-translation/blob/master/illustration/3/3.jpg)
+![3-3](https://raw.githubusercontent.com/joexu01/tsureko-chinese-translation/master/illustration/3/3.jpg)
+
+![3-4](https://raw.githubusercontent.com/joexu01/tsureko-chinese-translation/master/illustration/3/4.jpg)
