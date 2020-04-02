@@ -16,7 +16,8 @@
         "sharing-plus",
         "search-pro",
         "fontsettings",
-        "splitter"
+        "splitter",
+        "expandable-chapters"
     ],
     "pluginsConfig": {
         "sharing": {
