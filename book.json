@@ -6,7 +6,8 @@
     "links": {
         "sidebar": {
             "在BookWalker上购买本书": "https://bookwalker.jp/de866cce9a-d9c1-4abd-ad30-ad7d23028045/",
-            "Source Code": "https://github.com/joexu01/tsureko-chinese-translation"
+            "WEB版连载网站": "https://kakuyomu.jp/works/1177354054883783581",
+            "Repository & Issues": "https://github.com/joexu01/tsureko-chinese-translation"
         }
     },
     "plugins": [
