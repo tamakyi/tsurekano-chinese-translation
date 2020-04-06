@@ -19,10 +19,12 @@
 
 ---
 
-![3-1](https://s1.ax1x.com/2020/04/02/GY6jB9.jpg)
+由于图床限制，请点击图片查看原图~
 
-![3-2](https://s1.ax1x.com/2020/04/02/GY6LX4.jpg)
+<a href="https://ibb.co/P5s8hbC"><img src="https://i.ibb.co/MRyLVjN/1.jpg" alt="1" border="0"></a>
 
-![3-3](https://s1.ax1x.com/2020/04/02/GY6XnJ.jpg)
+<a href="https://ibb.co/zbb09vr"><img src="https://i.ibb.co/1KKwyWL/2.jpg" alt="2" border="0"></a>
 
-![3-4](https://s1.ax1x.com/2020/04/02/GY6qcF.jpg)
+<a href="https://ibb.co/wrWCKK5"><img src="https://i.ibb.co/93T2qqQ/3.jpg" alt="3" border="0"></a>
+
+<a href="https://ibb.co/wKWRFVV"><img src="https://i.ibb.co/tbs4Tgg/4.jpg" alt="4" border="0"></a>
