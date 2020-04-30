@@ -4,15 +4,25 @@
 
 > 翻译进度：
 >
-> * **4/24——文库版第四卷-第三章更新**
-> * **4/24——最新话-本篇27章更新**
+> * **4/30更新——[文库第四卷 第五章 前情侣回归故里② 黄昏已逝](文库本第四卷/4-5.md)**
+> * **4/24更新——[WEB最新话-本篇27章 前情侣回归故里③ 初恋的伤疤](《继母的拖油瓶是我的前女友》WEB最新话/20-4-7.md) **
 >
-> 公告：
+> Tips：
 >
-> * 少量插图可能在国内显示不稳定，请谅解，如果图挂了给我提issue或者发邮件
-> * 国内用户访问[Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/)会更快一些
+> * 少量插图可能在国内显示不稳定，请谅解
+> * 强烈建议国内用户访问[Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/)，速度更快
 > * 您可以在左上角调整字体（可以多次放大/缩小）和背景主题
-> * **贴吧交流群：809456343 欢迎加入**
+> * **贴吧交流群：809456343 欢迎加入** 
+
+---
+
+本页面由吧友自发建设，只为喜欢拖油瓶的朋友们带来更好的阅读体验
+
+**全部翻译整理完毕**(4/28)
+
+[Github Page](https://tsureko-chinese.github.io)  建议国内用户访问 > [Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/)
+
+仓库：https://github.com/joexu01/tsurekano-chinese-translation 
 
 ---
 
@@ -36,20 +46,3 @@
 
 再婚的双亲的拖油瓶们，是刚刚分手的恋人。虽说顾及再婚双亲的感受的二人决定上演关系良好的义理姐弟的戏码，但在二人独处时，却总会显露出原本的关系。
 
----
-
-本页面由吧友自发建设，只为喜欢拖油瓶的朋友们带来更好的阅读体验。
-
-您可以通过顶部的菜单调整字体和背景（夜间模式）。
-
-如果翻译更新，我会第一时间发布更新，保证阅读体验。
-
-**再次：贴吧交流群：809456343 欢迎加入**
-
-[Github Page](https://tsureko-chinese.github.io)
-
-[Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/) < 建议国内用户访问
-
-有问题请联系：
-
-joexu01@yahoo.com

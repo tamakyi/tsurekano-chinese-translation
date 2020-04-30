@@ -1,13 +1,13 @@
 {
     "title": "《拖油瓶》中文翻译",
-    "author": "紙城境介/たかやKi 翻译：企鹅半岛（LK ID：pipio08）",
-    "description": "《继母的拖油瓶是我的前女友》中文翻译",
+    "author": "紙城境介/たかやKi 翻译：企鹅半岛、三上悠米",
+    "description": "《继母的拖油瓶是我的前女友》中文翻译 Online Book",
     "language": "zh-hans",
     "links": {
         "sidebar": {
             "在BookWalker上购买本书": "https://bookwalker.jp/de866cce9a-d9c1-4abd-ad30-ad7d23028045/",
             "WEB版连载网站": "https://kakuyomu.jp/works/1177354054883783581",
-            "Repository & Issues": "https://github.com/joexu01/tsureko-chinese-translation"
+            "Repository & Issues": "https://github.com/joexu01/tsurekano-chinese-translation"
         }
     },
     "plugins": [
