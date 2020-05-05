@@ -4,8 +4,8 @@
 
 > 翻译进度：
 >
-> * **4/30更新——[文库第四卷 第五章 前情侣回归故里② 黄昏已逝](文库本第四卷/4-5.md)**
-> * **4/24更新——[WEB最新话-本篇27章 前情侣回归故里③ 初恋的伤疤](《继母的拖油瓶是我的前女友》WEB最新话/20-4-7.md) **
+> * **5/5更新——[文库第四卷 第七章 前情侣回归故里③ 初恋的伤疤](文库本第四卷/4-7.md)**
+> * **翻译中——[WEB最新话 本篇28 前情侣回归故里④ 来自初吻的宣战公告](《继母的拖油瓶是我的前女友》WEB最新话/20-4-14.md) **
 >
 > Tips：
 >
@@ -17,8 +17,6 @@
 ---
 
 本页面由吧友自发建设，只为喜欢拖油瓶的朋友们带来更好的阅读体验
-
-**全部翻译整理完毕**(4/28)
 
 [Github Page](https://tsureko-chinese.github.io)  建议国内用户访问 > [Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/)
 
@@ -45,4 +43,26 @@
 “我讨厌的就是你这样的地方啊，你个死宅。”
 
 再婚的双亲的拖油瓶们，是刚刚分手的恋人。虽说顾及再婚双亲的感受的二人决定上演关系良好的义理姐弟的戏码，但在二人独处时，却总会显露出原本的关系。
+
+---
+
+阅读方法：
+
+* 在线阅读
+
+  [Github Page](https://tsureko-chinese.github.io)  
+
+  建议国内用户访问 > [Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/)
+
+* 本地阅读
+
+  * Requirements: `git`, `node.js`, `npm`, `gitbook` 
+
+    ```bash
+    $ git clone https://github.com/joexu01/tsurekano-chinese-translation.git
+    $ cd tsurekano-chinese-translation/
+    $ gitbook serve
+    ```
+
+  * 访问`http://localhost:4000` 
 

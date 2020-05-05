@@ -18,7 +18,7 @@
         "search-pro",
         "fontsettings",
         "splitter",
-        "expandable-chapters"
+        "chapter-fold"
     ],
     "pluginsConfig": {
         "sharing": {
