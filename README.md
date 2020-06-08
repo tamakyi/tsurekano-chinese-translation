@@ -4,14 +4,14 @@
 
 > 翻译进度：
 >
-> * **5/5更新——[文库第四卷 第七章 前情侣回归故里③ 初恋的伤疤](文库本第四卷/4-7.md)**
-> * **翻译中——[WEB最新话 本篇28 前情侣回归故里④ 来自初吻的宣战公告](《继母的拖油瓶是我的前女友》WEB最新话/20-4-14.md) **
+> * **5/6更新——[文库本第四卷 来自初吻的宣战布告 翻译完成](文库本第四卷/README.md)**
+> * **5/7更新——[WEB最新话 本篇28 前情侣回归故里④ 来自初吻的宣战公告](《继母的拖油瓶是我的前女友》WEB最新话/20-4-14.md) **
 >
 > Tips：
 >
 > * 少量插图可能在国内显示不稳定，请谅解
-> * 强烈建议国内用户访问[Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/)，速度更快
-> * 您可以在左上角调整字体（可以多次放大/缩小）和背景主题
+> * **推荐访问[Gitee Page](https://tsureko-chinese.gitee.io/tsureko-chinese.github.io/) ** 看不了的点这里->[Github Page](https://tsureko-chinese.github.io) 
+> * EPUB、MOBI请访问[Github Releases](https://github.com/joexu01/tsurekano-chinese-translation/releases) ([Gitee Releases](https://gitee.com/tsureko-chinese/tsureko-chinese.github.io/releases)) 或者加交流群👇自取
 > * **贴吧交流群：809456343 欢迎加入** 
 
 ---
@@ -66,3 +66,4 @@
 
   * 访问`http://localhost:4000` 
 
+*请勿以任何形式转载
